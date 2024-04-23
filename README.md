@@ -42,4 +42,4 @@ cd nomDuDepot && code .
 
 Maintenant que vous êtes sur VSCode, créez un serveur web local depuis LiveServer qui est une extension VSCode afin d'accéder au site.
 
-Vous pouvez tout aussi bien visiter le rendu visuel depuis <a href="https://kuroinekoo.github.io/KuroiNekOo-Hercule/"><strong>le retour d'Hercule</strong></a>.
+Vous pouvez tout aussi bien visiter le rendu visuel depuis <a href="https://kuroinekoo.github.io/KuroiNekOo-Hercule2/"><strong>le retour d'Hercule</strong></a>.
